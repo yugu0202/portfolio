@@ -1,0 +1,22 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
+
+[params.profileMode]
+enabled = true
+title = "Hi,I'm yugu0202"
+subtitle = ''
+
+[params]
+socialIcons = [
+    { name = 'twitter', url = 'https://twitter.com/yugu0202' },
+    { name = 'github', url = 'https://github.com/yugu0202' },
+]
+
+[menu]
+main = [
+    { identifier = "Home", name = "Home", url = "/", weight = 10 },
+    { identifier = "Skills", name = "Skills", url = "/Skills/", weight = 20 },
+    { identifier = "Projects", name = "Projects", url = "/Projects/", weight = 30 }
+]

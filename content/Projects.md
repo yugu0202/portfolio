@@ -1,4 +1,6 @@
-# Works
+---
+title: Works
+---
 
 ## Game
 

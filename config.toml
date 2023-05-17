@@ -18,6 +18,6 @@ socialIcons = [
 [menu]
 main = [
     { identifier = "Home", name = "Home", url = "/", weight = 10 },
-    { identifier = "Skills", name = "Skills", url = "/Skills/", weight = 20 },
-    { identifier = "Projects", name = "Projects", url = "/Projects/", weight = 30 }
+    { identifier = "Skills", name = "Skills", url = "/skills/", weight = 20 },
+    { identifier = "Works", name = "Works", url = "/works/", weight = 30 }
 ]

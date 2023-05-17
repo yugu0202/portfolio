@@ -36,6 +36,7 @@ jobs:
       pages: write
       id-token: write
     environment:
+      url: https://yugu0202.net
       name: github-pages
     runs-on: ubuntu-20.04
     

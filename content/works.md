@@ -2,7 +2,7 @@
 title: Works
 ---
 
-<script src="/js/hoge.js"></script>
+<script src="works.js"></script>
 
 ## Game
 

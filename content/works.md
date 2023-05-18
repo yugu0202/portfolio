@@ -2,8 +2,6 @@
 title: Works
 ---
 
-<script src="works.js"></script>
-
 ## Game
 
 **compactCHaserServer**  

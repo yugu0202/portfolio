@@ -12,7 +12,7 @@ u-16プログラミングコンテストゲームサーバーのCUIのみバー�
 [github](https://github.com/yugu0202/compactCHaserServer)  
 
 
-**UnityChaserServer**
+**UnityChaserServer**  
 使用技術: Unity  
 
 2022年に現行のCHaserServerの問題点を解決するため友人と三人で作成  
@@ -87,5 +87,5 @@ u-16プロコン釧路大会で使用しているChaserConnect.rbのC#移植版
 
 普段つかっているチャットツールDiscordのBot開発  
 - 時間割通知やバス情報通知用Bot
-- Steamのセール通知をDiscordで行うBot
+- Steamのセール通知をDiscordで行うBot  
 などを開発

@@ -88,4 +88,5 @@ u-16プロコン釧路大会で使用しているChaserConnect.rbのC#移植版
 普段つかっているチャットツールDiscordのBot開発  
 - 時間割通知やバス情報通知用Bot
 - Steamのセール通知をDiscordで行うBot  
+
 などを開発

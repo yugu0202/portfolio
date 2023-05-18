@@ -9,6 +9,7 @@ title: Works
 
 2022年にデバック作業簡単化の為に友人と二人で作成  
 u-16プログラミングコンテストゲームサーバーのCUIのみバージョン  
+ネットワーク関連を担当  
 [github](https://github.com/yugu0202/compactCHaserServer)  
 
 
@@ -17,6 +18,7 @@ u-16プログラミングコンテストゲームサーバーのCUIのみバー�
 
 2022年に現行のCHaserServerの問題点を解決するため友人と三人で作成  
 u-16プログラミングコンテスト競技部門のゲームサーバーをUnityで作り直した  
+UIとネットワーク、対戦処理の連結を担当  
 未完成の部分あり  
 [github](https://github.com/KPC-U16/UnityChaserServer)
 
@@ -50,12 +52,13 @@ UIと対戦処理、描画処理を担当
 
 2022年にCTF問題用に友人と二人で作成  
 画像に文字を埋め込むsteganographyという技術を用いたエンコード，デコードツール  
+処理の高速化を行った  
 [github](https://github.com/polyacetal/steganography)  
 
 ## Other
 
 **kosenfes(仮称)**  
-使用技術: firebase Hosting, firestore Database, firebase Authentication, JavaScript
+使用技術: firebase Hosting, firestore Database, firebase Authentication, JavaScript  
 
 2022年に学校祭展示用に作成  
 絵を描くとそれが入った透明なボックスが生成されそれを好きに回転させて送るとサーバー側で同じように一覧表示される  
@@ -80,6 +83,7 @@ u-16プロコン釧路大会で使用しているCHaserConnect.rbのpython3移�
 
 2020年に友人と二人で作成  
 u-16プロコン釧路大会で使用しているChaserConnect.rbのC#移植版  
+手探り状態であったため特に分担はなし  
 [github](https://github.com/noko1024/CSharpChaser)
 
 **DiscordBots**  

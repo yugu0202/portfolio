@@ -73,7 +73,7 @@ docker-composeで運用することが多い
 
 - firebase
 
-高専祭展示作品制作時に学習
+高専祭展示作品制作時に学習  
 Hosting，firestore，Authenticationの三つを使用
 
 - hugo

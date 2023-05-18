@@ -1,10 +1,8 @@
 ---
 title: Works
-
-page_js: [
-    "works.js",
-]
 ---
+
+<script src="/js/hoge.js"></script>
 
 ## Game
 

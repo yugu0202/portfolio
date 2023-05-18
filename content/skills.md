@@ -74,4 +74,4 @@ docker-composeで運用することが多い
 - hugo
 
 最近使い始めた  
-[UDHI-LABホームページ](https://udhi-lab.com)、ポートフォリオサイトに使用
+[UDHI-LABホームページ](https://udhi-lab.com)，ポートフォリオサイトに使用

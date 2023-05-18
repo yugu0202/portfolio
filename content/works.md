@@ -1,5 +1,9 @@
 ---
 title: Works
+
+page_js: [
+    "works.js",
+]
 ---
 
 ## Game

@@ -1,7 +1,7 @@
 baseURL = 'https://yugu0202.net/'
 publishDir = "public"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ja_jp'
+title = "yugu0202 Portfolio"
 theme = 'PaperMod'
 
 [params.profileMode]

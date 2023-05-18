@@ -71,6 +71,11 @@ docker-composeで運用することが多い
 あまり使わない  
 自宅サーバーに開発環境を置く際に何度か使用
 
+- firebase
+
+高専祭展示作品制作時に学習
+Hosting，firestore，Authenticationの三つを使用
+
 - hugo
 
 最近使い始めた  

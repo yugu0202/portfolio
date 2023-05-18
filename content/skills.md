@@ -28,7 +28,7 @@ Rails使用経験あり
 
 - Java
 
-学校の授業で使用
+学校の授業で使用  
 普段の開発ではほとんど使用しない
 
 - JavaScript
@@ -38,12 +38,12 @@ node.js使用経験あり
 
 - Vim Script
 
-Vimが好きで学習
+Vimが好きで学習  
 最近はあまり書いていない
 
 - SQLite
 
-DiscordBotのバックエンドで使用
+DiscordBotのバックエンドで使用  
 現在はPostgreSQL等に移行したためほとんど使用していない
 
 - PostgreSQL
@@ -63,10 +63,10 @@ DiscordBotのバックエンドで使用
 
 - Docker
 
-同じく日常的に使用
+同じく日常的に使用  
 docker-composeで運用することが多い
 
 - Vagrant
 
-あまり使わない
+あまり使わない  
 自宅サーバーに開発環境を置く際に何度か使用

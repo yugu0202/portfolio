@@ -4,7 +4,8 @@ title: Works
 
 ## Game
 
-**compactCHaserServer**  
+- **compactCHaserServer**  
+
 使用技術: Python  
 
 2022年にデバック作業簡単化の為に友人と二人で作成  
@@ -13,7 +14,8 @@ u-16プログラミングコンテストゲームサーバーのCUIのみバー�
 [github](https://github.com/yugu0202/compactCHaserServer)  
 
 
-**UnityChaserServer**  
+- **UnityChaserServer**  
+
 使用技術: Unity  
 
 2022年に現行のCHaserServerの問題点を解決するため友人と三人で作成  
@@ -22,14 +24,16 @@ UIとネットワーク、対戦処理の連結を担当
 未完成の部分あり  
 [github](https://github.com/KPC-U16/UnityChaserServer)
 
-**minigames**  
+- **minigames**  
+
 使用技術: Java  
 
 2022年にJavaの課題として作成  
 じゃんけん，ハイ&ロー，数字当ての三種類のゲームがCUIで遊べる  
 [github](https://github.com/yugu0202/minigames)  
 
-**YooSolo**  
+- **YooSolo**  
+
 使用技術: Unity  
 
 2021年に学校祭展示用に友人と二人で作成  
@@ -39,7 +43,8 @@ UIと対戦処理、描画処理を担当
 
 ## Tool
 
-**QR-CTF**  
+- **QR-CTF**  
+
 使用技術: JavaScript  
 
 2022年に自作のCTF問題を解くために作成  
@@ -47,7 +52,8 @@ UIと対戦処理、描画処理を担当
 [github](https://github.com/yugu0202/QR-CTF)  
 [pages](https://yugu0202.github.io/QR-CTF)  
 
-**steganography**  
+- **steganography**  
+
 使用技術: Python  
 
 2022年にCTF問題用に友人と二人で作成  
@@ -57,28 +63,32 @@ UIと対戦処理、描画処理を担当
 
 ## Other
 
-**kosenfes(仮称)**  
+- **kosenfes(仮称)**  
+
 使用技術: firebase Hosting, firestore Database, firebase Authentication, JavaScript  
 
 2022年に学校祭展示用に作成  
 絵を描くとそれが入った透明なボックスが生成されそれを好きに回転させて送るとサーバー側で同じように一覧表示される  
 [page](https://kosenfes-8b9d6.web.app)  
 
-**multiTerm.vim**  
+- **multiTerm.vim**  
+
 使用技術: Vim Script  
 
 2021年に作成  
 vimのターミナルをAtomやVScodeと同じようにタブ表示するVim Plugin  
 [github](https://github.com/yugu0202/multiTerm.vim)  
 
-**Chaser-python**  
+- **Chaser-python**  
+
 使用技術: Python  
 
 2020年に作成  
 u-16プロコン釧路大会で使用しているCHaserConnect.rbのpython3移植版  
 [github](https://github.com/yugu0202/Chaser-python)
 
-**CSharpChaser**  
+- **CSharpChaser**  
+
 使用技術: C#
 
 2020年に友人と二人で作成  
@@ -86,7 +96,8 @@ u-16プロコン釧路大会で使用しているChaserConnect.rbのC#移植版
 手探り状態であったため特に分担はなし  
 [github](https://github.com/noko1024/CSharpChaser)
 
-**DiscordBots**  
+- **DiscordBots**  
+
 使用技術: Python,SQLite  
 
 普段つかっているチャットツールDiscordのBot開発  

@@ -4,7 +4,7 @@ title: Works
 
 ## Game
 
-*compactCHaserServer**  
+**compactCHaserServer**  
 使用技術: Python  
 
 2022年にデバック作業簡単化の為に友人と二人で作成  

@@ -4,6 +4,7 @@ languageCode = 'ja_jp'
 title = "yugu0202 Portfolio"
 theme = 'PaperMod'
 analytics.google.SiteVericationTag = "G-P09KBMEXDV"
+googleAnalytics = "G-P09KBMEXDV"
 
 [params.profileMode]
 enabled = true

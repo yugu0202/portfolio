@@ -12,6 +12,9 @@ title = "Hi,I'm yugu0202"
 subtitle = ''
 imageUrl = "https://github.com/yugu0202.png"
 
+[params.assets]
+favicon = "https://github.com/yugu0202.png"
+
 [params]
 socialIcons = [
     { name = 'twitter', url = 'https://twitter.com/yugu0202' },

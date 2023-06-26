@@ -3,6 +3,7 @@ publishDir = "public"
 languageCode = 'ja_jp'
 title = "yugu0202 Portfolio"
 theme = 'PaperMod'
+googleAnalytics = "G-P09KBMEXDV"
 analytics.google.SiteVerificationTag = "G-P09KBMEXDV"
 
 [params.profileMode]

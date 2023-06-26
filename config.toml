@@ -14,6 +14,9 @@ imageUrl = "https://github.com/yugu0202.png"
 
 [params.assets]
 favicon = "https://github.com/yugu0202.png"
+favicon16x16 = "https://github.com/yugu0202.png"
+favicon32x32 = "https://github.com/yugu0202.png"
+apple_touch_icon = "https://github.com/yugu0202.png"
 
 [params]
 socialIcons = [

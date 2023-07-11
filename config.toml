@@ -10,13 +10,13 @@ analytics.google.SiteVerificationTag = "G-P09KBMEXDV"
 enabled = true
 title = "Hi,I'm yugu0202"
 subtitle = ''
-imageUrl = "https://github.com/yugu0202.png"
+imageUrl = "https://avatars.githubusercontent.com/u/49861024?v=4"
 
 [params.assets]
-favicon = "https://github.com/yugu0202.png"
-favicon16x16 = "https://github.com/yugu0202.png"
-favicon32x32 = "https://github.com/yugu0202.png"
-apple_touch_icon = "https://github.com/yugu0202.png"
+favicon = "https://avatars.githubusercontent.com/u/49861024?v=4"
+favicon16x16 = "https://avatars.githubusercontent.com/u/49861024?v=4"
+favicon32x32 = "https://avatars.githubusercontent.com/u/49861024?v=4"
+apple_touch_icon = "https://avatars.githubusercontent.com/u/49861024?v=4"
 
 [params]
 socialIcons = [

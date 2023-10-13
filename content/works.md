@@ -4,14 +4,20 @@ title: Works
 
 ## Game
 
+**WebCHaserver**  
+使用技術: Elixir, Phoenix Framework, fly.io  
+
+2023年に卒業研究として作成中  
+u-16プログラミングコンテストでやっているCHaserのWeb版ゲームサーバー  
+[github](https://github.com/yugu0202/WebCHaserver)  
+
 **compactCHaserServer**  
 使用技術: Python  
 
 2022年にデバック作業簡単化の為に友人と二人で作成  
-u-16プログラミングコンテストゲームサーバーのCUIのみバージョン  
+u-16プログラミングコンテストで使われているゲームサーバーのCUIのみバージョン  
 ネットワーク関連を担当  
 [github](https://github.com/yugu0202/compactCHaserServer)  
-
 
 **UnityChaserServer**  
 使用技術: Unity  
@@ -39,6 +45,14 @@ UIと対戦処理、描画処理を担当
 
 ## Tool
 
+**CHaserViewer**  
+使用技術: JavaScript  
+
+2023年にcompactCHaserServerのダンプファイルからグラフィカルな対戦を表示するために作成  
+enchant.jsを用いて実装を行った  
+[github](https://github.com/yugu0202/CHaserViewer)  
+[pages](https://chaserviewer.pages.dev)  
+
 **QR-CTF**  
 使用技術: JavaScript  
 
@@ -56,6 +70,13 @@ UIと対戦処理、描画処理を担当
 [github](https://github.com/polyacetal/steganography)  
 
 ## Other
+
+**imomochi**  
+使用技術: HTML, CSS  
+
+2023年に学校祭バザーの広告で作成  
+某app○e風Webページ  
+[page](https://imomochi.pages.dev)  
 
 **kosenfes(仮称)**  
 使用技術: firebase Hosting, firestore Database, firebase Authentication, JavaScript  

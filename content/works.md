@@ -81,7 +81,7 @@ enchant.jsを用いて実装を行った
 **kosenfes(仮称)**  
 使用技術: firebase Hosting, firestore Database, firebase Authentication, JavaScript  
 
-2022年に学校祭展示用に作成  
+2022-2023年に学校祭展示用に作成  
 絵を描くとそれが入った透明なボックスが生成されそれを好きに回転させて送るとサーバー側で同じように一覧表示される  
 [page](https://kosenfes-8b9d6.web.app)  
 
